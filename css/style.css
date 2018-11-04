@@ -1,0 +1,11 @@
+.custom-color-primary {
+	color: grey;
+}
+
+.custom-color-primary:hover {
+	color: black;
+}
+
+.font-dancing {
+	font-family: 'Dancing Script', cursive;
+}
